@@ -15,7 +15,7 @@ Angular and Phaser can be easily decoupled from Electron to allow for mobile dep
 
 
 # Easy to Build
-Game creation should be incredibly easy with HTML, CSS, and Typescript  
+Build with HTML, CSS, and Typescript  
 
 
 # To do:
