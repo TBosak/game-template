@@ -1,27 +1,17 @@
-# BrowserGame
+#Electron/Angular/Phaser Template
+In order to run, make sure to open two separate terminals and do the following:
+1. 'ng serve' in one terminal to start Angular app
+2. 'npm run electron' in the other terminal to start Electron interface
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
+#Cross-Platform & Responsive
+This should run on any desktop operating system
+Flexbox integration allows for extremely responsive design elements
+Angular and Phaser can be easily decoupled from Electron to allow for mobile deployment with a different framework
 
-## Development server
+#Easy to Build
+Game creation should be incredibly easy with HTML, CSS, and Typescript
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+#To do:
+*Setting up config(s) to point at correct hosting environment(s) for the project in Electron's main.js
+*Correctly exposing index.html to Electron as Angular runs (this has proven difficult to do in one run-script as you cannot chain commands with 'ng serve') - fixing this may fix item 1, as there will be no reference needed to host location.
+*Need to make use of this template with to find pain points between frameworks and correct them before they occur in use of the template, to optimize ease of implementation.
