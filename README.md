@@ -1,5 +1,5 @@
 # Electron/Angular/Phaser Template
-In order to run, make sure to open two separate terminals and do the following:  
+In order to run, make sure to open two separate terminals targeting the project path and do the following:  
 
 1. 'ng serve' in one terminal to start Angular app  
 
