@@ -1,6 +1,6 @@
 <h1 align="center">
 <a href=" https://github.com/TBosak/game-template/archive/master.zip">
-<img src="https://i.ibb.co/p0hD1bD/repository-phaser-template.png" alt="repository-phaser-template" width=60% height="60%" border="0"></a>
+<img src="https://i.ibb.co/p0hD1bD/repository-phaser-template.png" alt="repository-phaser-template" width=60% height="60%" border="0"></a><br>
 Electron/Angular/Phaser Template
 </h1>
 
