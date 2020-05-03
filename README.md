@@ -40,7 +40,7 @@ In order to run, make sure to open two separate terminals targeting the project 
 
 ## Built With
 
-* [Angular](https://angular.io/)- The web framework used.  
+* [Angular](https://angular.io/) – The web framework used.  
 
 * [Phaser]( https://phaser.io/) – The game framework used.  
 
@@ -48,7 +48,7 @@ In order to run, make sure to open two separate terminals targeting the project 
 
 * [NodeJS](https://nodejs.org/en/) – The Javascript framework and package manager used.  
 
-* [Flexbox](https://github.com/angular/flex-layout) The web layout model used.
+* [Flexbox](https://github.com/angular/flex-layout) – The web layout model used.
 
 ## Authors
 
