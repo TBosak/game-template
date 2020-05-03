@@ -12,6 +12,7 @@ Angular and Phaser can be easily decoupled from Electron to allow for mobile dep
 ### Easy to Build
 Build with HTML, CSS, and Typescript  
 
+---
 
 ## Getting Started
 
@@ -29,6 +30,8 @@ In order to run, make sure to open two separate terminals targeting the project 
 
 3. ```npm run electron``` in the other terminal to start Electron interface  
 
+---
+
 ## To Do  
 *Setting up config(s) to point at correct hosting environment(s) for the project in Electron's main.js  
 
@@ -39,6 +42,8 @@ In order to run, make sure to open two separate terminals targeting the project 
 *Need to hide Electron toolbar, or bind to a boolean for end-user(developer).  
 
 *Need to turn template into an installable package.
+
+---
 
 ## Built With
 
