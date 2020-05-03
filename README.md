@@ -1,5 +1,5 @@
 # Electron/Angular/Phaser Template 
-
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/29fb4dffbab44f48bbb57bd6be67d5ca)](https://app.codacy.com/manual/TBosak/game-template?utm_source=github.com&utm_medium=referral&utm_content=TBosak/game-template&utm_campaign=Badge_Grade_Dashboard)
 ![GitHub stars](https://img.shields.io/github/stars/TBosak/game-template?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/TBosak/game-template?label=Watchers&style=social) ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FTBosak%2Fgame-template)  
 
 This is an Angular project template with Phaser nested inside, set up to run with Electron.
