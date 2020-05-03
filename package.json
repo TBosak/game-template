@@ -9,7 +9,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "electron": "ng build --base-href ./ && electron D:/BrowserGame/browser-game/main.js"
+    "electron": "ng build --base-href ./ && electron main.js"
   },
   "private": true,
   "dependencies": {

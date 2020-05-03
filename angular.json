@@ -32,7 +32,7 @@
             ],
             "scripts": [
               "node_modules/phaser/dist/phaser.min.js",
-              "D:/BrowserGame/browser-game/main.js"
+              "main.js"
             ]
           },
           "configurations": {
