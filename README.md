@@ -1,7 +1,6 @@
 <h1 align="center">
-  <br>
-  <a href=" https://github.com/TBosak/game-template/archive/master.zip">
-<img src="https://i.ibb.co/p0hD1bD/repository-phaser-template.png" alt="repository-phaser-template" width=60% height="60%" border="0"></a>  
+<a href=" https://github.com/TBosak/game-template/archive/master.zip">
+<img src="https://i.ibb.co/p0hD1bD/repository-phaser-template.png" alt="repository-phaser-template" width=60% height="60%" border="0"></a>
 Electron/Angular/Phaser Template
 </h1>
 
@@ -53,7 +52,7 @@ In order to run, make sure to open two separate terminals targeting the project 
 
 *Need to turn template into an installable package.  
 
-*Add implementation example images and videos
+*Add implementation example images and videos to README
 
 ---
 
