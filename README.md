@@ -1,4 +1,7 @@
-# Electron/Angular/Phaser Template  
+# Electron/Angular/Phaser Template 
+
+![GitHub stars](https://img.shields.io/github/stars/TBosak/game-template?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/TBosak/game-template?label=Watchers&style=social) ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FTBosak%2Fgame-template)  
+
 This is an Angular project template with Phaser nested inside, set up to run with Electron.
 
 ### Cross-Platform & Responsive
