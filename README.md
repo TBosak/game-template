@@ -46,17 +46,17 @@ In order to run, make sure to open two separate terminals targeting the project 
 ---
 
 ## To Do  
-*Setting up config(s) to point at correct hosting environment(s) for the project in Electron's main.js  
+* Setting up config(s) to point at correct hosting environment(s) for the project in Electron's main.js  
 
-*Correctly exposing index.html to Electron as Angular runs (this has proven difficult to do in one run-script as you cannot chain commands with 'ng serve') - fixing this may fix item 1, as there will be no reference needed to host location.  
+* Correctly exposing index.html to Electron as Angular runs (this has proven difficult to do in one run-script as you cannot chain commands with 'ng serve') - fixing this may fix item 1, as there will be no reference needed to host location.  
 
-*Need to make use of this template to find pain points between frameworks and correct them before they occur in use of the template, to optimize ease of implementation.  
+* Need to make use of this template to find pain points between frameworks and correct them before they occur in use of the template, to optimize ease of implementation.  
 
-*Need to hide Electron toolbar, or bind to a boolean for end-user(developer).  
+* Need to hide Electron toolbar, or bind to a boolean for end-user(developer).  
 
-*Need to turn template into an installable package.  
+* Need to turn template into an installable package.  
 
-*Add implementation example images and videos to README
+* Add implementation example images and videos to README
 
 ---
 
