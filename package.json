@@ -2,7 +2,7 @@
   "name": "browser-game",
   "version": "0.0.0",
   "scripts": {
-    "main": "D:/BrowserGame/browser-game/main.js",
+    "main": "main.js",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
