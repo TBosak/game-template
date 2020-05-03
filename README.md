@@ -23,9 +23,11 @@ Build with HTML, CSS, and Typescript
 ### Running
 In order to run, make sure to open two separate terminals targeting the project path and do the following:  
 
-1. ```ng serve``` in one terminal to start Angular app.  
+1. ```npm install``` in the template directory to ensure that all dependencies are installed.  
 
-2. ```npm run electron``` in the other terminal to start Electron interface  
+2. ```ng serve``` in one terminal to start Angular app.  
+
+3. ```npm run electron``` in the other terminal to start Electron interface  
 
 ## To Do  
 *Setting up config(s) to point at correct hosting environment(s) for the project in Electron's main.js  
