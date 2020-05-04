@@ -27,19 +27,20 @@ Build with HTML, CSS, and Typescript
 ### Prerequisites
 [Node.js and Angular CLI](https://angular.io/guide/setup-local)  
 (you shouldn’t need to go past step 1)  
-[Electron](https://www.electronjs.org/docs/tutorial/installation)
+[Electron](https://www.electronjs.org/docs/tutorial/installation)  
+
+
+1. ```npm install electron -g``` to install electron globally & set path.  
+
+2. ```npm install``` in project root folder to ensure that all dependencies are installed.  
 
 
 ### Running
 In order to run, make sure to open two separate terminals targeting the project path and do the following:  
 
-1. ```npm install electron -g``` to install electron globally & set path.  
+1. ```ng serve``` in one terminal to start Angular app.  
 
-2. ```npm install``` to ensure that all dependencies are installed.  
-
-3. ```ng serve``` in one terminal to start Angular app.  
-
-4. ```npm run electron``` in the other terminal to start Electron interface  
+2. ```npm run electron``` in the other terminal to start Electron interface  
 
 ---
 
