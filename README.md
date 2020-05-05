@@ -76,3 +76,8 @@ In order to run, make sure to open two separate terminals targeting the project 
 * **Tim Barani** - *Initial work* - [TBosak]( https://github.com/TBosak)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+  
+  
+---
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V5LC4XTQDDE82&source=url)
