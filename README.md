@@ -55,7 +55,9 @@ In order to run, make sure to open two separate terminals targeting the project 
 
 * Need to turn template into an installable package.  
 
-* Add implementation example images and videos to README
+* Add implementation example images and videos to README  
+
+* Need to setup custom component generation
 
 ---
 
