@@ -1,7 +1,8 @@
 <h1 align="center">
 <a href=" https://github.com/TBosak/game-template/archive/master.zip">
-<img src="https://i.ibb.co/p0hD1bD/repository-phaser-template.png" alt="repository-phaser-template" width=60% height="60%" border="0"></a><br>
-Electron/Angular/Phaser Template
+<img src="https://i.ibb.co/2sfVyqR/coher3ntslogocolor.png" alt="coher3nts" border="0">
+  </a><br>
+Coher3nTS Project
 </h1>
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/29fb4dffbab44f48bbb57bd6be67d5ca)](https://app.codacy.com/manual/TBosak/game-template?utm_source=github.com&utm_medium=referral&utm_content=TBosak/game-template&utm_campaign=Badge_Grade_Dashboard) [![GitHub](https://img.shields.io/github/license/TBosak/game-template)](https://github.com/TBosak/game-template/blob/master/LICENSE) [![Gitter](https://badges.gitter.im/Angular-Phaser-Electron-Template/community.svg)](https://gitter.im/Angular-Phaser-Electron-Template/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![GitHub stars](https://img.shields.io/github/stars/TBosak/game-template?style=social)](https://github.com/TBosak/game-template) [![GitHub watchers](https://img.shields.io/github/watchers/TBosak/game-template?label=Watchers&style=social)](https://github.com/TBosak/game-template) [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FTBosak%2Fgame-template)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FTBosak%2Fgame-template)
