@@ -1,6 +1,6 @@
 <h1 align="center">
 <a href=" https://github.com/TBosak/game-template/archive/master.zip">
-<img src="https://i.ibb.co/2sfVyqR/coher3ntslogocolor.png" alt="coher3nts" border="0">
+<img src="https://i.ibb.co/2sfVyqR/coher3ntslogocolor.png" alt="coher3nts" height="50% width="50%" border="0">
   </a><br>
 Coher3nTS Project
 </h1>
