@@ -53,7 +53,7 @@ In order to run, make sure to open two separate terminals targeting the project 
 
 * Need to hide Electron toolbar, or bind to a boolean for end-user(developer).  
 
-* Need to turn template into an installable package.  
+* Need to turn template into an installable Angular schematics package.  
 
 * Add implementation example images and videos to README  
 
