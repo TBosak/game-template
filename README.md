@@ -57,7 +57,9 @@ In order to run, make sure to open two separate terminals targeting the project 
 
 * Add implementation example images and videos to README  
 
-* Need to setup custom component generation
+* Need to setup custom component generation  
+
+* Need to integrate Electron install wizard generation for finished product(s)
 
 ---
 
