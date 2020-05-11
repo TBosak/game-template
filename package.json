@@ -37,7 +37,7 @@
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "^13.13.5",
     "codelyzer": "^5.1.2",
-    "electron": "^8.2.4",
+    "electron": "^8.2.5",
     "jasmine-core": "~3.5.0",
 
     "karma": "^5.0.5",
