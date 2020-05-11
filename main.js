@@ -1,14 +1,10 @@
-const { app, BrowserWindow } = require('electron')
-
-require('electron-reload')(".");
-
-const url = require("url");
+ const {app, BrowserWindow} = require('electron')
+    const url = require("url");
     const path = require("path");
-
 
     let mainWindow
 
-    async function createWindow () {
+    function createWindow () {
       mainWindow = new BrowserWindow({
         width: 800,
         height: 600,
@@ -27,7 +23,7 @@ const url = require("url");
       })
     }
 
-    app.whenReady().then(createWindow)
+    app.on('ready', createWindow)
 
     app.on('window-all-closed', function () {
       if (process.platform !== 'darwin') app.quit()
