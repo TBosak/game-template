@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VSTemplate Version="3.0.0" Type="ProjectGroup">
+  <TemplateData>
+    <Name>Coher3nts</Name>
+    <Description>Cross-platform project template using Electron and Angular with the Phaser game engine. Project has Flexbox integrated for easy and responsive organization of components around the Phaser canvas.</Description>
+    <Icon>src\favicon.ico</Icon>
+    <ProjectType>Node.JS</ProjectType>
+    <LanguageTag>Typescript</LanguageTag>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>Coher3nts</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+  </TemplateData>
+  <TemplateContent>
+    <Project File="NodejsWebApp1.njsproj" ReplaceParameters="true">
+    </Project>
+  </TemplateContent>
+</VSTemplate>
