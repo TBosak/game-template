@@ -59,7 +59,7 @@ In order to run, make sure to open two separate terminals targeting the project 
 
 * Need to setup custom component generation  
 
-* Need to integrate Electron forge/install generation for finished product(s)
+* Need to integrate Electron forge for install generation of finished product(s)
 
 ---
 
