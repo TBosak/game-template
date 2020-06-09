@@ -36,9 +36,7 @@ Build with HTML, CSS, and Typescript
 
 
 ### Running
-In order to run, make sure to open two separate terminals targeting the project path and do the following:  
-
-1. ```npm run-script start``` will concurrently run ```ng serve``` and ```npm run-script electron``` to fire up the project. It takes a minute for serve to finish up. Will hopefully fix this soon to wait and reload electron automatically when angular finishes compiling.
+1. ```npm run-script start``` command in the project root folder will concurrently run ```ng serve``` and ```npm run-script electron``` to fire up the project. It takes a minute for serve to finish up. Will hopefully fix this soon to wait and reload electron automatically when angular finishes compiling.
 
 ---
 
