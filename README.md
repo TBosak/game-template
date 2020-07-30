@@ -75,7 +75,7 @@ Build with HTML, CSS, and Typescript
 
 * **Tim Barani** - *Initial work* - [TBosak]( https://github.com/TBosak)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/TBosak/game-template/graphs/contributors "contributors") who participated in this project.
   
   
 ---
