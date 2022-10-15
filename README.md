@@ -6,15 +6,12 @@ Coher3nTS Project
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/29fb4dffbab44f48bbb57bd6be67d5ca)](https://app.codacy.com/manual/TBosak/game-template?utm_source=github.com&utm_medium=referral&utm_content=TBosak/game-template&utm_campaign=Badge_Grade_Dashboard) [![GitHub](https://img.shields.io/github/license/TBosak/game-template)](https://github.com/TBosak/game-template/blob/master/LICENSE) [![Gitter](https://badges.gitter.im/Angular-Phaser-Electron-Template/community.svg)](https://gitter.im/Angular-Phaser-Electron-Template/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![GitHub stars](https://img.shields.io/github/stars/TBosak/game-template?style=social)](https://github.com/TBosak/game-template) [![GitHub watchers](https://img.shields.io/github/watchers/TBosak/game-template?label=Watchers&style=social)](https://github.com/TBosak/game-template) [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FTBosak%2Fgame-template)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FTBosak%2Fgame-template)
 
-This is an Angular project template with Phaser nested inside, set up to run with Electron.
+This is an Angular project template with Phaser, set up to run with Electron.
 
 ### Cross-Platform & Responsive
 The template should run on any desktop operating system.  
 
 Flexbox integration allows for extremely responsive design elements.  
-
-Angular and Phaser can be easily decoupled from Electron to allow for mobile deployment with a different framework.  
-
 
 ### Easy to Build
 Build with HTML, CSS, and Typescript  
